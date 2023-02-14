@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open spanExample.html",
+            "file": "c:\\Users\\patil\\Documents\\GitHub\\fynd-training\\FYND_code\\HTML\\spanExample.html"
+        }
+    ]
+}
